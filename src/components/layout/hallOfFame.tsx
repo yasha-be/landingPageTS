@@ -1,5 +1,3 @@
-import { ReactNode } from 'react';
-
 interface HallOfFameProps {
   image: string;
   name: string;

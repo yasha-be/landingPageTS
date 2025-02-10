@@ -1,5 +1,3 @@
-import { ReactNode } from 'react';
-
 interface LogoProps {
   src: string;
   alt?: string;
